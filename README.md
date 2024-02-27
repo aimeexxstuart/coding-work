@@ -12,4 +12,4 @@ It was challenging for me to compile all of my work into one and have it program
 This project taught me how to program a clock which I have never done before. It was a learning process to create a clock that displayed both 12 and 24 hours.
 #How did you make this program maintainable, readable, and adaptable?
 I used the correct amount of spacing and some in-line comments so reading it would be easier. I tried to make it adaptable by creating my program small and to the point,
-it can be easily adaptable.
+it can adapt to any clock.
